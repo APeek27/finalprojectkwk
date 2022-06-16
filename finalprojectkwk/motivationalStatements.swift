@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  motivationalStatements.swift
 //  finalprojectkwk
 //
-//  Created by abigail peek on 6/14/22.
+//  Created by abigail peek on 6/15/22.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class motivationalStatements: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,4 +16,3 @@ class ViewController: UIViewController {
 
 
 }
-
